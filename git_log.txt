@@ -1,0 +1,56 @@
+commit 6e2855d2fa9aa23924c7a8ccd88b3f2a7c3a566d
+Author: Miyun2003 <awun@calstatela.edu>
+Date:   Fri Jan 31 11:31:27 2025 -0800
+
+    Added favorite game in index-fix
+
+commit 69890d3dd937044e790e9a9ded80668d7a5c263b
+Author: Miyun2003 <awun@calstatela.edu>
+Date:   Fri Jan 31 11:17:13 2025 -0800
+
+    Added favorite food
+
+commit 244e749b389b27d71613870f22f593cdcba6e259
+Author: Miyun2003 <awun@calstatela.edu>
+Date:   Fri Jan 31 11:11:27 2025 -0800
+
+    Added READ.md
+
+commit b6657870408d1b2b5a8c31e61aff0ab45f432f9b
+Author: Miyun2003 <awun@calstatela.edu>
+Date:   Fri Jan 31 11:03:04 2025 -0800
+
+    Added README.md
+
+commit 4392096e96993a923f93426594ec067e1de2be5b
+Author: Miyun2003 <awun@calstatela.edu>
+Date:   Fri Jan 31 10:59:03 2025 -0800
+
+    Added README.md
+
+commit f4ca8aae4e7de600f30008d0508bc762b8f2f250
+Author: Miyun2003 <awun@calstatela.edu>
+Date:   Fri Jan 31 10:56:50 2025 -0800
+
+    Added README.md
+
+commit a3bbc34cf9bf9a6d5a4402433a636f1b32c0bb3b
+Merge: 1d2bfc0 5f936f5
+Author: Miyun2003 <awun@calstatela.edu>
+Date:   Fri Jan 31 10:50:27 2025 -0800
+
+    Merge pull request #1 from Miyun2003/info-fill
+    
+    Filled in the blanks in index.html
+
+commit 5f936f584ea97acf7675661979effe2fb3d022f4
+Author: Miyun2003 <awun@calstatela.edu>
+Date:   Fri Jan 31 10:42:25 2025 -0800
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
